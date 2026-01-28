@@ -37,7 +37,7 @@
   },
 
   "chrome_url_overrides": {
-    "skiovox_html": "/new-tab/main.html"
+    "newtab": "/new-tab/main.html"
   },
 
   "permissions": [
