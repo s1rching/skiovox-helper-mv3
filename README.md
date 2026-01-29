@@ -1,11 +1,11 @@
-# Skiovox Helper
-### The helper extension for the Skiovox exploit.
+# Skiovox Helper MV3
+### The helper extension for the Skiovox exploit ported to manifest version 3.
 
 ## Install
 
 **Installation steps can be seen in the "stage 3" section on [skiovox.com](https://skiovox.com)**
 
-Once installed, open a new tab to see the extension's homepage.
+Once installed, click alt+shift+t to see the extension's homepage.
 
 ## Features
 - Fixes most shortcut functionality within the exploit
