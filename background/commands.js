@@ -1,6 +1,7 @@
 const VIEW_SOURCE_PREFIX = "view-source:";
 const HISTORY_URL = "chrome://history";
 const DOWNLOADS_URL = "chrome://downloads";
+const NEW_TAB = "chrome://new-tab-page";
 
 function getRecentWindow() {
   return new Promise(resolve => {
@@ -34,7 +35,7 @@ async function onCommand(name) {
 
   switch (name) {
     case "NEW_TAB":
-      openTab(chrome://new-tab-page/);
+      openTab(NEW_TAB);
       break;
 
     case "SKIOVOX_TAB":
