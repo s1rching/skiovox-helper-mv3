@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "version": "5.1.4",
   "name": "Skiovox Helper MV3",
-  "description": "The Manifest Version 3 port of Skiovox Helper, a helper extension for the Skiovox exploit.",
+  "description": "The Manifest Version 3 port of Skiovox Helper, a helper extension for the Skiovox v141 exploit FOUND BY THE CROSBREAKER TEAM.",
   "icons": {
     "128": "icon.png"
   },
